@@ -1,0 +1,6 @@
+framework module VCClient {
+  umbrella header "VCClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

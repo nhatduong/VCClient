@@ -1,0 +1,16 @@
+PODS:
+  - VCClient (0.1.0)
+
+DEPENDENCIES:
+  - VCClient (from `../`)
+
+EXTERNAL SOURCES:
+  VCClient:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VCClient: 12cc3214c6a82fe7762d3a7d3182bcd3a1701190
+
+PODFILE CHECKSUM: 444a00ae1e61ab5f167f434b7b9e23b05d319429
+
+COCOAPODS: 1.8.4

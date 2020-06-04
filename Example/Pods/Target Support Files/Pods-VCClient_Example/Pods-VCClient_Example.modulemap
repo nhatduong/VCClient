@@ -1,0 +1,6 @@
+framework module Pods_VCClient_Example {
+  umbrella header "Pods-VCClient_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
